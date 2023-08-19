@@ -19,7 +19,8 @@ Because this data is host on Clemson servers which needs a VPN that I lost acces
 but there a pdf file in this repository tited: 6620 Project Report that gives more detail and diagrams to describe the 
 system design and gives a link to the Entity Relationship (ER) Diagram where we describe the connection between all the entities 
 in this project. When you open the ER diagram, click on the drop down arrow in the middle top of the screen to open using 
-diagrams.net. This will allow you to clearly see the diagram.
+diagrams.net. This will allow you to clearly see the diagram. This document is very large, the first 6 pages would be nice
+for you to read. The rest of the document includes screenshots of our website.
 
 The MySQL database schema is located within the 6220_Project folder titled: MeTube_6620_DatabaseSchema.sql.
 
