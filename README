@@ -1,0 +1,37 @@
+Richard Garcia
+August 19th, 2023
+
+
+This repository hosts a semester long project I completed with two other students for a class named CPSC 6620:
+Database Management Systems at Clemson University. I am proud of this project as it allowed me to combine multiple languages
+I've learned in my undergraduate classes to complete a fully functional website. This work is less related to what I do now in 
+my current role as a Product data analyst, but it showcases my first time dipping my toes with creating a database schema and 
+querying it.
+
+The main goal of the project was to create a website identical to Youtube that allows users to sign in, upload multimedia files,
+delete files, interact with those files, leave comments, and add those files to their curated playlists. 
+
+The tech stack used in this project consisted of a MySQL database that hosted our website data (user information, multimedia files),
+PHP which is a server-side scripting language in which we incorporated MySQL code to communicate with the database and read and write information,
+and HTML to display our data on the frontend.
+
+Because this data is host on Clemson servers which needs a VPN that I lost access to I currently cannot connect to it,
+but there a pdf file in this repository tited: 6620 Project Report that gives more detail and diagrams to describe the 
+system design and gives a link to the Entity Relationship (ER) Diagram where we describe the connection between all the entities 
+in this project. When you open the ER diagram, click on the drop down arrow in the middle top of the screen to open using 
+diagrams.net. This will allow you to clearly see the diagram.
+
+The MySQL database schema is located within the 6220_Project folder titled: MeTube_6620_DatabaseSchema.sql.
+
+The SQL code is located within the PHP scripts. These scripts are located in the repository file path: 
+metube/6620_Project/php_scripts/
+
+The titles of these scripts can give you an idea of the sort of SQL statement(s) written within it.
+
+
+
+
+
+
+
+                                                                            
