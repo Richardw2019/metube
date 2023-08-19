@@ -22,6 +22,8 @@ in this project. When you open the ER diagram, click on the drop down arrow in t
 diagrams.net. This will allow you to clearly see the diagram. This document is very large, the first 6 pages would be nice
 for you to read. The rest of the document includes screenshots of our website.
 
+Included in the repository is the instruction sheet for this project.
+
 The MySQL database schema is located within the 6220_Project folder titled: MeTube_6620_DatabaseSchema.sql.
 
 The SQL code is located within the PHP scripts. These scripts are located in the repository file path: 
