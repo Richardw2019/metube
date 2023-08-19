@@ -12,8 +12,7 @@ The main goal of the project was to create a website identical to Youtube that a
 delete files, interact with those files, leave comments, and add those files to their curated playlists. 
 
 The tech stack used in this project consisted of a MySQL database that hosted our website data (user information, multimedia files),
-PHP which is a server-side scripting language in which we incorporated MySQL code to communicate with the database and read and write information,
-and HTML to display our data on the frontend.
+PHP which is a server-side scripting language in which we incorporated MySQL code to communicate with the database and read and write information, and HTML to display our data on the frontend.
 
 Because this data is host on Clemson servers which needs a VPN that I lost access to I currently cannot connect to it,
 but there a pdf file in this repository tited: 6620 Project Report that gives more detail and diagrams to describe the 
